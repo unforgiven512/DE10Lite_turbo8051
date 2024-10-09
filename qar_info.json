@@ -1,0 +1,7 @@
+{
+	"common_dir" : "/home/unforgiven512/development/Intel/Quartus/Golden_Top/",
+	"acds_version" : "Version 23.1std.1",
+	"platform" : "linux",
+	"os" : "Debian GNU/Linux",
+	"qpf" : "DE10_LITE_Golden_Top.qpf"
+}

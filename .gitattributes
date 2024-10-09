@@ -1,0 +1,18 @@
+#
+# .gitattributes
+#
+
+## GENERIC ##
+
+*				text=auto
+
+
+## HDL ##
+
+*.v				eol=lf
+*.verilog		eol=lf
+*.sv			eol=lf
+*.vh			eol=lf
+*.vhd			eol=lf
+*.vhdl			eol=lf
+*.cmp			eol=lf

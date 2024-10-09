@@ -1,0 +1,28 @@
+#
+# .gitignore
+#
+
+## BACKUP & TEMPORARY FILES ##
+
+*~
+*.bak
+*.tmp
+
+## Quartus Files ##
+
+db/
+incremental_db/
+greybox_tmp/
+netlist_viewers/
+*.rpt
+*.rpt.htm
+*.eqn
+*.eqn.htm
+*.smsg
+*.summary
+*.htm_files/
+*.sof
+*.pof
+*.done
+*.jdi
+*.pin
